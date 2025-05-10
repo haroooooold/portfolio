@@ -36,7 +36,7 @@ This is a personal portfolio website built using Vite+React, Tailwind CSS, and F
 
 ## Demo
 
-Check out the live demo of the portfolio website: [Live Demo](harold-cuenca-portfolio.netlify.app)
+Check out the live demo of the portfolio website: [Live Demo](https://harold-cuenca-portfolio.netlify.app/)
 
 ## Deployment
 
