@@ -55,14 +55,6 @@ export default function Home() {
                 Developer
               </span>
             </motion.h2>
-            <motion.h2
-              variants={{
-                hidden: { opacity: 0, y: 10 },
-                visible: { opacity: 1, y: 0 },
-              }}
-            >
-              Based In <span className="font-extrabold">Philippines.</span>
-            </motion.h2>
           </motion.div>
 
           <motion.p

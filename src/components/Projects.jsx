@@ -1,4 +1,3 @@
-import { TbExternalLink } from "react-icons/tb";
 import { motion } from "framer-motion";
 
 const projects = [
