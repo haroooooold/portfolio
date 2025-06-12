@@ -37,7 +37,7 @@ export default function About() {
         <p className="text-[#71717A] text-sm/6 lg:text-base mt-3 lg:mt-5">
           My professional journey began in 2016, and over the years, I've led
           cloud migrations, developed robust accounting and front office
-          systems, and supported over 500 businesses across the Philippines. I
+          systems, and supported over 250 businesses across the Philippines. I
           specialize in modern tools like TypeScript, Express.js, and Vite,
           always aiming to stay updated with current technologies.
         </p>
