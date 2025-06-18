@@ -63,11 +63,14 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5, duration: 1 }}
           >
-            Passionate about using technology to solve real problems. I’ve led
-            cloud migrations, built custom software, and worked closely with
-            clients to deliver practical solutions. I'm always learning and
-            focused on creating systems that are efficient, reliable, and
-            scalable.
+            I'm a passionate Full Stack Developer with hands-on experience
+            building modern web applications using React, Node.js, TypeScript,
+            and MySQL. I specialize in crafting responsive user interfaces,
+            integrating APIs, and writing clean, scalable code for robust
+            backend systems. I enjoy solving real-world problems and have worked
+            on building financial tracking applications. Whether it's improving
+            UI/UX, developing RESTful APIs, or managing relational databases, I
+            aim to deliver efficient and reliable solutions.
           </motion.p>
 
           <motion.div

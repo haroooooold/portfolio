@@ -18,6 +18,15 @@ const projects = [
     image: "/assets/project2.webp",
     link: "#",
   },
+  {
+    id: 3,
+    title: "Book Store",
+    description: `A MERN stack project, using React for the frontend, Node.js and Express.js for the
+                  backend, and MongoDB for database, also leverage technologies like Tailwind CSS,
+                  Redux, RTK Query Toolkit, Mongoose, and JWT (JSON Web Tokens) to enhance the project.`,
+    image: "/assets/project3.PNG",
+    link: "https://book-store-sage-ten.vercel.app/",
+  },
 ];
 
 export default function Projects() {
@@ -48,11 +57,14 @@ export default function Projects() {
             viewport={{ once: true }}
           >
             <div className="lg:w-[500px] w-full rounded-2xl overflow-hidden">
-              <img
-                className="w-full h-full hover:scale-105 transition-all duration-500 cursor-pointer object-cover"
-                src={project.image}
-                alt={project.title}
-              />
+              <a href={project.link} target="_blank" rel="noopener noreferrer">
+                <img
+                  className="w-full h-full hover:scale-105 transition-all duration-500 cursor-pointer object-cover"
+                  src={project.image}
+                  alt={project.title}
+                  link={project.link}
+                />
+              </a>
             </div>
 
             <div className="lg:w-1/2 lg:space-y-6 space-y-4">

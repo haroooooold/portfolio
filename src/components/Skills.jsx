@@ -33,7 +33,7 @@ export default function Skills() {
         Led cloud migration initiatives to streamline Front Office functionalities while
         integrating Accounting Systems and Point of Sale solutions, optimizing
         efficiency and scalability.
-        Managed a diverse client portfolio of 500 businesses across the Philippines,
+        Managed a diverse client portfolio of 250 businesses across the Philippines,
         providing tailored software solutions and exceptional support to drive client
         satisfaction and retention.
         Designed, developed, and maintained software applications, ensuring alignment
